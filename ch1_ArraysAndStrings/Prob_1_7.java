@@ -77,4 +77,4 @@ public class Prob_1_7
 
 		prob.display(matrix);
 	}
-}
+ }
